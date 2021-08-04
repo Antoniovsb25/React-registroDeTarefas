@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Task Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é um exercício realizado para aprofundar conhecimentos em React.js. A vídeo aula deste trabalho encontra-se em: https://www.youtube.com/watch?v=w7ejDZ8SWv8
 
 ## Available Scripts
 
