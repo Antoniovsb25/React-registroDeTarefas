@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Text placeholder 1",
+      "day": "Apr 25th at 11:05pm",
+      "reminder": true
+  },
+  {
+      "id": 2,
+      "text": "Text placeholder 2",
+      "day": "Apr 25th at 11:05pm",
+      "reminder": true
+  },
+  {
+      "id": 3,
+      "text": "Text placeholder 3",
+      "day": "Apr 25th at 11:05pm",
+      "reminder": false
+  }
+  ]
+}
